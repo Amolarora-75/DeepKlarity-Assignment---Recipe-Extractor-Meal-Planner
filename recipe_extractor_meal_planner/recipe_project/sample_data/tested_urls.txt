@@ -1,0 +1,7 @@
+## Sample Recipe URLs Tested
+
+1. https://www.allrecipes.com/recipe/23891/grilled-cheese-sandwich/
+2. https://www.allrecipes.com/recipe/25080/mmm-cookies/
+3. https://www.allrecipes.com/recipe/17481/simple-white-cake/
+4. https://www.allrecipes.com/recipe/245236/spicy-chicken-tikka-masala/
+5. https://www.allrecipes.com/recipe/11691/fried-rice-restaurant-style/
