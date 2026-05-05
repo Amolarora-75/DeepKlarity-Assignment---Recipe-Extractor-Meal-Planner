@@ -66,19 +66,12 @@ To build a system that:
 
 ## 🖼️ Screenshots
 
-### 📌 Meal Planner Dashboard
 
-*Add your screenshot here*
+<img width="1344" height="514" alt="meal tab 1" src="https://github.com/user-attachments/assets/0dc6dc8e-03e8-4aee-8353-38b01ee54855" />
 
-### 📌 Add / Update Recipe Modal
+<img width="1342" height="563" alt="meal tab 2" src="https://github.com/user-attachments/assets/4a285b66-bfc1-495c-ba12-1589ddf3ef0c" />
 
-*Add your screenshot here*
 
-### 📌 Login & Register Pages
-
-*Add your screenshot here*
-
----
 
 ## 🛠️ Tech Stack
 
